@@ -1,4 +1,4 @@
-# DevOps Project
+# Infrastructure as Code Project
 Configure a virtual machine using Vagrant and Ansible to receive a WordPress instance
 
 # Project structure
