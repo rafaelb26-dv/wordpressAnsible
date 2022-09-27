@@ -16,7 +16,7 @@ Vagrantfile -> File to provision two VM's, one for the database and one for word
 
 
 # To run this project you need to have vagrant and ansible installed.
-follow the links to install Vagrant and Ansible on Linux ubuntu:
+Follow the links to install Vagrant and Ansible on Linux ubuntu:
 
 https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-ansible-on-ubuntu-22-04     
 https://itslinuxfoss.com/install-vagrant-ubuntu-22-04/
