@@ -1,0 +1,5 @@
+wordpress_user: '' ##set your wordpress user
+wordpress_db: '' ##set your wordpress database
+wp_user_password: '' ##set your wordpress password
+wp_host_ip: '' ##set your private_network ip host for wordpress
+wp_db_ip: '' ##set your private_network ip host for mysql

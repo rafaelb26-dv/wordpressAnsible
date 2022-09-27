@@ -1,0 +1,5 @@
+[wordpress]
+{{wp_host_ip}} ansible_user=vagrant ansible_ssh_private_key_file=/home/{{user}}/{{PathToProject}}/.vagrant/machines/wordpress/virtualbox/private_key
+
+[database]
+{{wp_db_ip}} ansible_user=vagrant ansible_ssh_private_key_file=/home/{{user}}/{{PathToProject}}/.vagrant/machines/mysql/virtualbox/private_key
