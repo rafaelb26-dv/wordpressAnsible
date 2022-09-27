@@ -34,7 +34,7 @@ After installing Ansible and Vagrant, clone the project to your machine, open yo
 Access application with wordpress private ip that was defined in Vagrantfile
 
 
-![](Peek 27-09-2022 14-29.gif)
+![](https://github.com/rafaelb26-dv/wordpressAnsible/blob/main/Peek%2027-09-2022%2014-29.gif)
 
 
 
