@@ -1,5 +1,5 @@
 # Ansible Project
-Configure a virtual machine using Vagrant and Ansible to receive a WordPress instance
+Configure a virtual machine using Vagrant and Ansible to build a WordPress instance
 
 # Project structure
 files/00-default.conf -> Apache config file to serve the application
